@@ -24,14 +24,19 @@ limitations under the License.
   height="350"
   width="400"
   layout="responsive"
-  data-request-url="https://amp.yoursite.com/amp/nativo"
+  data-request-url="<AMP Article URL>"
 >
 </amp-ad>
 ```
+## AMP Article URL
+The Amp Article URL is the url preceeding the google appended. In the example AMP url:
+`https://www.google.com/amp/s/www.testpublisher.com/test/la-xpm-2006-may-16-fi-amp16-story/amp/`
+`www.testpublisher.com/test/la-xpm-2006-may-16-fi-amp16-story/amp/` would be the AMP Article URL.
 
 ## Configuration
 
-Before starting any Nativo AMP setup, please reach out to your account manager for the most up to date documentation or contact [tpm@nativo.com](mailto:tpm@nativo.com).
+Before starting any Nativo AMP setup, please reach out to your account manager for the most up to date documentation or contact.  Once implemented please send a test url to your Nativo account manager for our team to begin the QA process. [tsm@nativo.com](mailto:tsm@nativo.com).
+
 
 ### Optional parameters
 
